@@ -1,2 +1,2 @@
 # test-repo
-Testing repository for learning purpose
+Testing repository for learning purpose.
